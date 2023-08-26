@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this line is added by dev1 on devloper01 machine
+=======
+This line is added by dev2 on devloper2 machine
+>>>>>>> dev2
